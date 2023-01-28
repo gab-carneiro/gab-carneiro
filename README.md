@@ -1,41 +1,137 @@
-<h1 align="center">Hi 👋, I'm Gabriel Carneiro</h1>
+<h1 align="center" >Hi 👋, I'm Gabriel Carneiro</h1>
 
-<h2 align="center">A passionate full-stack developer from Brazil</h2>
+<h2 align='center' >A passionate full-stack developer from Brazil</h2>
+<hr color='#0C101D' width='420px' />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/-gab-carneiro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/-gab-carneiro/" height="30" width="40" /></a>
+<h3 align='center'>
+    <code>:: Some facts about me ::</code>
+</h3>
+<hr color='#E63462' width='190px' />
+
+<p align='center'>
+    <code>
+        <p align='center'>
+        👨‍🎓 I'm currently studying Computer Science<br/>
+        </p>
+        <p align='center' >
+        👨‍💻 All of my projects are available at <a href='https://github.com/gab-carneiro?tab=repositories' target="_blank" rel="noreferrer">repositories page.</a><br/>
+        </p>
+        <p align='center' >
+        🔭 I’m currently working on <b>refactoring old projects</b><br/>
+        </p>
+        <p align='center' >
+        ⚡ Fun fact <b>sometimes I listen to Britney Spears while i code</b>
+        </p>
+    </code>
 </p>
 
-<h3 align="left">Some facts about me</h3>
+<h3 align='center'>
+    <code>:: Connect with on LinkedIn ::</code>
+</h3>
+<hr color='#E63462' width='240px' />
+
+<p align="center">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/-gab-carneiro/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/-gab-carneiro/" height="24" width="24" />
+    </a>
 </p>
-- 🔭 I’m currently working on **refactoring old projects**
 
-- 🌱 I’m currently learning **Node.js**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/gab-carneiro?tab=repositories](https://github.com/gab-carneiro?tab=repositories)
+<h3 align='center'>
+    <code>:: Tools ::</code>
+</h3>
+<hr color='#E63462' width='40px' />
 
-- 📝 I regularly write articles on [comming soon... :cloud:](comming soon... :cloud:)
+<p align='center'>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/>
+    </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"     alt="postman" width="32" height="32"/>
+    </a>
+</p>
 
-- 📫 How to reach me **gabrielfabianoo91@gmail.com**
+<br/>
 
-- 📄 Know about my experiences [comming soon... :write:](comming soon... :write:)
+<h3 align='center'>
+    <code>:: Languages ::</code>
+</h3>
+<hr color='#E63462' width='90px' />
 
-- ⚡ Fun fact **sometimes I listen to Britney Spears while i code**
+<p align="center">
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="32" height="32"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="32" height="32"/>
+    </a>
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="32" height="32"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/> 
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" height="32"/> 
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="32" height="32"/>
+    </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="32" height="32"/>
+    </a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="32" height="32"/>
+    </a>
+</p>
 
+<p align="center">
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="32" height="32"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/> 
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+    </a>
+</p>
 
+<p align="center">
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="32" height="32"/>
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer" background='#fff'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="32" height="32"/>
+    </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center">
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="32" height="32"/> 
+    </a>
+</p>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>.
-</a> 
+<br/>
 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align='center'>
+    <code>:: Some cool data ::</code>
+</h3>
+<hr color='#E63462' width='90px' />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gab-carneiro&show_icons=true&locale=en&layout=compact" alt="gab-carneiro" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gab-carneiro&show_icons=true&locale=en" alt="gab-carneiro" /></p>
+<p  align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gab-carneiro&show_icons=true&locale=en" alt="gab-carneiro" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gab-carneiro&" alt="gab-carneiro" /></p>
+<p>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gab-carneiro&show_icons=true&locale=en&layout=compact" alt="gab-carneiro" width="390" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gab-carneiro&" alt="gab-carneiro" width="400"/>
+</p>
