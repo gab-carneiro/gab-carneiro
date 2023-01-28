@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Carneiro</h1>
 
-<h2 align="center">A passionate frontend developer from Brazil</h2>
+<h2 align="center">A passionate full-stack developer from Brazil</h2>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -10,7 +10,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gab-carneiro&label=Profile%20views&color=0e75b6&style=flat" alt="gab-carneiro" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gab-carneiro" alt="gab-carneiro" /></a> 
 
 </p>
 - 🔭 I’m currently working on **refactoring old projects**
