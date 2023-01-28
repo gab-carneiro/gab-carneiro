@@ -1,15 +1,12 @@
 <h1 align="center" >Hi 👋, I'm Gabriel Carneiro</h1>
 
 <h2 align='center' >A passionate full-stack developer from Brazil</h2>
-<hr color='#0C101D' width='420px' />
 
 <h3 align='center'>
     <code>:: Some facts about me ::</code>
 </h3>
-<hr color='#E63462' width='190px' />
 
 <p align='center'>
-    <code>
         <p align='center'>
         👨‍🎓 I'm currently studying Computer Science<br/>
         </p>
@@ -22,13 +19,11 @@
         <p align='center' >
         ⚡ Fun fact <b>sometimes I listen to Britney Spears while i code</b>
         </p>
-    </code>
 </p>
 
 <h3 align='center'>
     <code>:: Connect with on LinkedIn ::</code>
 </h3>
-<hr color='#E63462' width='240px' />
 
 <p align="center">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/-gab-carneiro/" target="blank">
@@ -41,7 +36,6 @@
 <h3 align='center'>
     <code>:: Tools ::</code>
 </h3>
-<hr color='#E63462' width='40px' />
 
 <p align='center'>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -60,7 +54,6 @@
 <h3 align='center'>
     <code>:: Languages ::</code>
 </h3>
-<hr color='#E63462' width='90px' />
 
 <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -123,7 +116,6 @@
 <h3 align='center'>
     <code>:: Some cool data ::</code>
 </h3>
-<hr color='#E63462' width='90px' />
 
 <br/>
 
@@ -131,7 +123,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=gab-carneiro&show_icons=true&locale=en" alt="gab-carneiro" />
 </p>
 
-<p>
+<p align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=gab-carneiro&show_icons=true&locale=en&layout=compact" alt="gab-carneiro" width="390" />
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=gab-carneiro&" alt="gab-carneiro" width="400"/>
 </p>
