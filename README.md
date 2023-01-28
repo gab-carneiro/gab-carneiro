@@ -22,11 +22,11 @@
 </p>
 
 <h3 align='center'>
-    <code>:: Connect with on LinkedIn ::</code>
+    <code>:: Connect with LinkedIn ::</code>
 </h3>
 
 <p align="center">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/-gab-carneiro/" target="blank">
+    <a href="www.linkedin.com/in/-gab-carneiro/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/-gab-carneiro/" height="24" width="24" />
     </a>
 </p>
