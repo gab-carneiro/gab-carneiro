@@ -16,9 +16,6 @@
         <p align='center' >
         🔭 I’m currently working on <b>refactoring old projects</b><br/>
         </p>
-        <p align='center' >
-        ⚡ Fun fact <b>sometimes I listen to Britney Spears while i code</b>
-        </p>
 </p>
 
 <h3 align='center'>
